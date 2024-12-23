@@ -39,6 +39,8 @@ The Logistic Regression model was used to predict the if the loan is healthy or 
 * Macro average - precision 0.94, recall 0.97.
 * Weighted average - Precision 0.99, recall 0.97. Support 19384 - class 0 (healthy loans) dominated.
 
+# Accuracy score is 99.39%
+
 This model is very good at identifying high risk loans, but from the confusion matrix it predicted 86 loans to be high-risk, that are actually healthy, and predicted 32 healthy loans that were high-risk. The model is conservative with giving out loans. That can lead to loosing potential good customers.
 
 If the goal of the lending company was to catch as many bad loans as it can, preferring safety, this is a good model.
