@@ -2,9 +2,23 @@
 # Challenge 20 by Olga Petrova
 
 # Overview of the Analysis
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
-Explain the purpose of the analysis.
+Project Credit risk Classification used various techniques to train and evaluate a model based on loan risk. 
+
+The goal was to correctly predict and identify healthy loans and risky loans - to perform risk analysis for the loan lending data.
+
+Machine learning technique called Logistical Regression Model was used for this purpose.
+
+Data set that was used - historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
+
+The data included size of the loan, interest rate, borrower's income, debt to income ratio, number of accounts, derogatory marks, total debt, status of the loan. 
+
+The model was used to predict the if the loan is healthy or risky.
+
+
+
+
+
 Explain what financial information the data was on, and what you needed to predict.
 Provide basic information about the variables you were trying to predict (e.g., value_counts).
 Describe the stages of the machine learning process you went through as part of this analysis.
